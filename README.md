@@ -1,4 +1,5 @@
 **Student Management System**
+
 This Student Management System is implemented in C++ using a linked list to store and manage student records. The project allows you to add, update, delete, search, display student data, check if a student has passed or failed, and determine the topper. The records are also stored in a file for persistent data storage.
 
 **Features**
@@ -20,9 +21,11 @@ This Student Management System is implemented in C++ using a linked list to stor
 **How to Run**
 - Clone or download this repository.
 - Compile the C++ file using any C++ compiler, for example:
+  
     g++ student_management.cpp -o student_management
   
 - Run the compiled file:
+  
     ./student_management
   
 - Enter the default username and password when prompted:
@@ -41,6 +44,7 @@ This Student Management System is implemented in C++ using a linked list to stor
   - Press 9: Display all records from the linked list.
 
 **Author**
+
 This project was developed by:
 
 **Syed Qasim Ibrar Shah**
